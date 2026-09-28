@@ -7,8 +7,8 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Output
-Name: Ramya S Reg no: 212222040130
-Dept: B.E.CSE
+Name: SRIVARSHAN D Reg no: 212224063002
+Dept: B.E.ECE
 EXP 1 : Comprehensive Report on the Fundamentals of Generative AI and Large
 Language Models (LLMs)
 Topic 1: Introduction to Generative AI
